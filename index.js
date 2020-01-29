@@ -25,7 +25,7 @@ Airplane.prototype.land = function () {
 // 👇 COMPLETE YOUR WORK BELOW 👇
 // 👇 COMPLETE YOUR WORK BELOW 👇
 */
-
+// LINK TO CODESANDBOX: https://codesandbox.io/s/js-exercise-prototype-bnm7o?fontsize=14&hidenavigation=1&theme=dark
 /*
   TASK 1
     - Write a Person Constructor that initializes `name` and `age` from arguments.
